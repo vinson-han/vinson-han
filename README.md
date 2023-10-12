@@ -3,7 +3,7 @@
 
 
 # Vinson at The Knoweldge House
-## For the last couple years I have  as a caregiver in the healthcare and currently transition into tech. My goals is to be software engineeer and currently I'm learning fullstack web development.
+## For the last couple years I have worked as caregiver in the healthcare space, and made the switch into tech. My goals a great software engineeer and I am currently learning fullstack web development.
 
 [Github.io](https://vinson-han.github.io)
 <br>
