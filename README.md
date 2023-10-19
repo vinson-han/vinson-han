@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vinson am FullStack Developer </h1>
+<!-- <h2> ADD BANNER HERE> -->
 <p>
  For the last couple year I worked in healthcare as a caregiver, and recently made the switch into tech. My goals a great software engineeer and create something meaningful during my time in tech. 
+</p>
+<p>
+ Here <a href="vinsondev.com">my website</a> for more info.
 </p>
 
 <h2 align="center">Where to Find Me</h2>
@@ -15,7 +19,83 @@
 </br>
 <h3 align="center">Check out my Work Bellow</h3>
 
-<table align="center">
+
+<table>
+  <th colspan="8" align="center">
+    Projects 🎁
+  </th>
+ </br>
+ <tr>
+  <td colspan="4">Project Title</td>
+  <td rowspan="1"></td>
+  <td colspan="3">Project Title2</td>
+ </tr>
+  <tr>
+   <td colspan="3" rowspan="3"> <img src="https://source.unsplash.com/random/500x500"></td>
+   <td>3</td>
+   <td rowspan="3"></td>
+   <td col span="3" rowspan="3"> <img src="https://source.unsplash.com/random/500x500"></td>
+   <td>7</td>
+  </tr>
+  <tr>
+
+   <td>11</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>17</td>
+   <td>18</td>
+
+  </tr>
+ 
+</table>
+
+
+
+
+
+<table style="display:inline-blocks" align="">
+  <tr>
+    <th colspan="4"></th>
+  </tr>
+   <tr>
+    <td colspan='3' rowspan='3'>
+    
+    </td>
+    <td>Description ✏️</td>
+  </tr>
+    <tr>
+      <td>Tech Built With 🦾</td>
+  </tr>
+    <td align="center">
+      <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> |
+      <a href="#">DEMO</a>
+    </td>
+  </tr>
+</table> |asdf|
+
+
+<table  align="">
+  <tr>
+    <th colspan="4">Projects 🎁</th>
+  </tr>
+   <tr>
+    <td colspan='3' rowspan='3'>
+     <img src="https://source.unsplash.com/random/500x500">
+    </td>
+    <td>Description ✏️</td>
+  </tr>
+    <tr>
+      <td>Tech Built With 🦾</td>
+  </tr>
+    <td align="center">
+      <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> |
+      <a href="#">DEMO</a>
+    </td>
+  </tr>
+</table>
+
+<table style="display:inline-blocks" align="">
   <tr>
     <th colspan="4">Projects 🎁</th>
   </tr>
@@ -35,45 +115,7 @@
   </tr>
 </table>
 </br>
-<table align="center">
-  <tr>
-    <th colspan="4">Projects 🎁</th>
-  </tr>
-   <tr>
-    <td colspan='3' rowspan='3'>
-     <img src="https://source.unsplash.com/random/500x500">
-    </td>
-    <td>Description ✏️</td>
-  </tr>
-    <tr>
-      <td>Tech Built With 🦾</td>
-  </tr>
-    <td align="center">
-      <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> |
-      <a href="#">DEMO</a>
-    </td>
-  </tr>
-</table>
-</br>
-<table align="center">
-  <tr>
-    <th colspan="4">Projects 🎁</th>
-  </tr>
-   <tr>
-    <td colspan='3' rowspan='3'>
-     <img src="https://source.unsplash.com/random/500x500">
-    </td>
-    <td>Description ✏️</td>
-  </tr>
-    <tr>
-      <td>Tech Built With 🦾</td>
-  </tr>
-    <td align="center">
-      <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> |
-      <a href="#">DEMO</a>
-    </td>
-  </tr>
-</table>
+
 
 <h3 align="center">Teah I use</h3>
 
