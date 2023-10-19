@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinson am FullStack Developer </h1>
+<h1 align="center">Hi 👋, welcome to my page.</h1>
 <!-- <h2> ADD BANNER HERE> -->
 <p>
  For the last couple year I worked in healthcare as a caregiver, and recently made the switch into tech. My goals a great software engineeer and create something meaningful during my time in tech. 
