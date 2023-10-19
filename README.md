@@ -12,26 +12,21 @@
 </p>
 
 
-
-
-
-
 </br>
 <h3 align="center">Check out my Work Bellow</h3>
 
-
-
-
-<table>
+<table align="center">
   <tr>
-    <th colspan="4">Projects</th>
+    <th colspan="4">Projects 🎁</th>
   </tr>
    <tr>
-    <td colspan='3' rowspan='3'>1</td>
-    <td>Description</td>
+    <td colspan='3' rowspan='3'>
+     <img src="https://source.unsplash.com/random/500x500">
+    </td>
+    <td>Description ✏️</td>
   </tr>
     <tr>
-      <td>Tech Built With GOes Here</td>
+      <td>Tech Built With 🦾</td>
   </tr>
     <td>
       <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> |
@@ -43,12 +38,6 @@
 
 
 
-
-
-
-[Github.io](https://vinson-han.github.io)
-![Portfolio repo goes here]()
-![Portfolio repo goes here](https://github.com/vinson-han/vinson-han.github.io)
 
 
 
