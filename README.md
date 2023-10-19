@@ -4,7 +4,7 @@
 For the past couple of years, I worked in healthcare as a caregiver. Recently, I made the switch into tech. My goals is to constantly learn and improve in different facets as a softtware engineer and create something meaningful during my time in tech.
 </p>
 <p>
- Here <a href="vinsondev.com">my website</a> for more info.
+ Here <a href="https://vinsondev.com/">my website</a> for more info.
 </p>
 
 <h2 align="center">Where to Find Me</h2>
