@@ -22,33 +22,81 @@
 
 <table>
   <th colspan="8" align="center">
-    Projects 🎁
+  &nbsp
   </th>
  </br>
  <tr>
-  <td colspan="4">Project Title</td>
+  <td align="center" colspan="4">Project Title 1</td>
   <td rowspan="4"></td>
-  <td colspan="4">Project Title2</td>
+  <td align="center" colspan="4">Project Title 2</td>
  </tr>
   <tr>
-   <td colspan="3" rowspan="3"> <img src="https://source.unsplash.com/random/500x500"></td>
+<!--    Project 1 -->
+   <td  colspan="3" rowspan="3"> <img src="https://source.unsplash.com/random/500x500"></td>
    <td>Description ✏️</td>
-  
+  <!--    Project 2 -->
    <td col span="3" rowspan="3"> <img src="https://source.unsplash.com/random/500x500"></td>
    <td>Description ✏️</td>
   </tr>
   <tr>
-
+   <!--    Project 1 -->
    <td>Tech Built With 🦾</td>
+   <!--    Project 2 -->
    <td>Tech Built With 🦾</td>
   </tr>
   <tr>
+   <!--    Project 1 -->
    <td> <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> |
       <a href="#">DEMO</a></td>
+   <!--    Project 2 -->
    <td> <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> |
       <a href="#">DEMO</a></td>
   </tr>
- 
+  <tr>
+   <td colspan="8">
+    &nbsp
+   </td>
+  </tr>
+</table>
+
+<!--Second Table -->
+<table>
+  <th colspan="8" align="center">
+  &nbsp
+  </th>
+ </br>
+ <tr>
+  <td align="center" colspan="4">Project Title 1</td>
+  <td rowspan="4"></td>
+  <td align="center" colspan="4">Project Title 2</td>
+ </tr>
+  <tr>
+<!--    Project 1 -->
+   <td  colspan="3" rowspan="3"> <img src="https://source.unsplash.com/random/500x500"></td>
+   <td>Description ✏️</td>
+  <!--    Project 2 -->
+   <td col span="3" rowspan="3"> <img src="https://source.unsplash.com/random/500x500"></td>
+   <td>Description ✏️</td>
+  </tr>
+  <tr>
+   <!--    Project 1 -->
+   <td>Tech Built With 🦾</td>
+   <!--    Project 2 -->
+   <td>Tech Built With 🦾</td>
+  </tr>
+  <tr>
+   <!--    Project 1 -->
+   <td> <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> |
+      <a href="#">DEMO</a></td>
+   <!--    Project 2 -->
+   <td> <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> |
+      <a href="#">DEMO</a></td>
+  </tr>
+  <tr>
+   <td colspan="8">
+    &nbsp
+   </td>
+  </tr>
 </table>
 
 
@@ -79,9 +127,19 @@
 
 
 <h3 align="center">Teah I use</h3>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
-
-
+<h3 align="center">Connect</h3>
 </br>
 <p align="center">
   <a href="https://github.com/vinson-han" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
