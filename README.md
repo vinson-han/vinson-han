@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, welcome to my page.</h1>
 <!-- <h2> ADD BANNER HERE> -->
 <p>
- For the last couple year I worked in healthcare as a caregiver, and recently made the switch into tech. My goals a great software engineeer and create something meaningful during my time in tech. 
+For the past couple of years, I worked in healthcare as a caregiver. Recently, I made the switch into tech. My goals are to become a great software engineer and create something meaningful during my time in tech.
 </p>
 <p>
  Here <a href="vinsondev.com">my website</a> for more info.
