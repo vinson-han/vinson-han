@@ -38,14 +38,14 @@ Let's connect!
    <td  colspan="3" rowspan="3"> <img src="./img//Kaban.JPG"></td>
    <td>✏️ Kaban Application using custom Drag & Drop ApI </td>
   <!--    Project 2 -->
-   <td col span="3" rowspan="3"> <img src="https://source.unsplash.com/random/500x500"></td>
-   <td>Description ✏️</td>
+   <td col span="3" rowspan="3"> <img src="./img/meme.PNG"></td>
+   <td>✏️ Meme Application that fetch images and add custom text on top f meme</td>
   </tr>
   <tr>
    <!--    Project 1 -->
    <td>🦾 React Tailwind</td>
    <!--    Project 2 -->
-   <td> 🦾</td>
+   <td> 🦾 React</td>
   </tr>
   <tr>
    <!--    Project 1 -->
