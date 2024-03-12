@@ -39,7 +39,7 @@ Let's connect!
    <td>✏️ Kaban Application using custom Drag & Drop ApI </td>
   <!--    Project 2 -->
    <td col span="3" rowspan="3"> <img src="./img/meme.PNG"></td>
-   <td>✏️ Meme Application that fetch images and add custom text on top f meme</td>
+   <td>✏️ Meme Application that fetch images and add custom text on top of meme</td>
   </tr>
   <tr>
    <!--    Project 1 -->
