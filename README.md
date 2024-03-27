@@ -68,7 +68,7 @@ Let's connect!
  </tr>
   <tr>
 <!--    Project 1 -->
-   <td  colspan="3" rowspan="3"> <img src="./img/classAverage.JPG"></td>
+   <td  colspan="3" rowspan="3"> <img src="./img/classAverage.jpg"></td>
    <td>✏️ React Single Page Application that caculate class room Average </td>
   <!--    Project 2 -->
    <td col span="3" rowspan="3"> <img src="./img/meme.jpg"></td>
