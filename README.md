@@ -28,38 +28,73 @@ Let's connect!
   &nbsp
   </th>
  </br>
+<!--    Project 1 -->
  <tr>
   <td align="center" colspan="4">Kaban Custom Drag & Drop</td>
   <td rowspan="4"></td>
-  <td align="center" colspan="4">Meme Generator</td>
+  <td align="center" colspan="4">Fullstack Github Api Application</td>
  </tr>
   <tr>
-<!--    Project 1 -->
    <td  colspan="3" rowspan="3"> <img src="./img//Kaban.JPG"></td>
-   <td>✏️ Kaban Application using custom Drag & Drop ApI </td>
+   <td>✏️ Kaban Application using custom Drag & Drop API </td>
   <!--    Project 2 -->
-   <td col span="3" rowspan="3"> <img src="./img/meme.PNG"></td>
-   <td>✏️ Meme Application that fetch images and add custom text on top f meme</td>
+   <td col span="3" rowspan="3"> <img src="./img/github.PNG"></td>
+   <td>✏️ Fullstack Application w/ authetication/login feature implement that allows you to search Github Repos w/ Github API</td>
   </tr>
+   <!--    Project  Built With -->
   <tr>
-   <!--    Project 1 -->
-   <td>🦾 React Tailwind</td>
-   <!--    Project 2 -->
-   <td> 🦾 React</td>
+   <td>🦾 React | Tailwind</td>
+   
+   <td> 🦾 React | Tailwind | Express | MongoDB</td>
   </tr>
+  <!--    Project Built With -->
   <tr>
-   <!--    Project 1 -->
+   <!--    Project   Content-->
    <td> <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> |
       <a href="https://kabanapp.netlify.app/">DEMO</a></td>
-   <!--    Project 2 -->
-   <td> <a href="https://github.com/vinson-han/MemeGenerator">CODE</a> 
-      <!-- <a href="#">DEMO</a></td> -->
+   <td> <a href="https://github.com/vinson-han/github">CODE</a> 
   </tr>
   <tr>
    <td colspan="8">
     &nbsp
    </td>
   </tr>
+   <!--    Project Content End -->
+  
+ <tr>
+  <td align="center" colspan="4"> React Class Average</td>
+  <td rowspan="4"></td>
+  <td align="center" colspan="4">Meme Generator</td>
+ </tr>
+  <tr>
+<!--    Project 1 -->
+   <td  colspan="3" rowspan="3"> <img src="./img//classAverage.JPG"></td>
+   <td>✏️ React Single Page Application that caculate class room Average </td>
+  <!--    Project 2 -->
+   <td col span="3" rowspan="3"> <img src="./img/meme.PNG"></td>
+   <td>✏️ Meme Application that fetch images and add custom text on top of meme</td>
+  </tr>
+  <tr>
+   <!--    Project 3 -->
+   <td>🦾 React | Tailwind</td>
+   <!--    Project 5 -->
+   <td> 🦾 React | CSS</td>
+  </tr>
+  <tr>
+   <!--    Project 1 -->
+   <td> 
+      <a href="https://github.com/vinson-han/reactCalculateClassRoomAverage">Code</a></td>
+   <!--    Project 2 -->
+   <td> <a href="https://github.com/vinson-han/MemeGenerator">CODE</a> </td>
+  </tr>
+  <tr>
+   <td colspan="8">
+    &nbsp
+   </td>
+  </tr>
+  
+  
+
 </table>
 
 
