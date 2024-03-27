@@ -35,10 +35,10 @@ Let's connect!
   <td align="center" colspan="4">Fullstack Github Api Application</td>
  </tr>
   <tr>
-   <td  colspan="3" rowspan="3"> <img src="./img//Kaban.JPG"></td>
+   <td  colspan="3" rowspan="3"> <img src="./img/Kaban.JPG"></td>
    <td>✏️ Kaban Application using custom Drag & Drop API </td>
   <!--    Project 2 -->
-   <td col span="3" rowspan="3"> <img src="./img/github.PNG"></td>
+   <td col span="3" rowspan="3"> <img src="./img/github.jpg"></td>
    <td>✏️ Fullstack Application w/ authetication/login feature implement that allows you to search Github Repos w/ Github API</td>
   </tr>
    <!--    Project  Built With -->
@@ -68,10 +68,10 @@ Let's connect!
  </tr>
   <tr>
 <!--    Project 1 -->
-   <td  colspan="3" rowspan="3"> <img src="./img//classAverage.JPG"></td>
+   <td  colspan="3" rowspan="3"> <img src="./img/classAverage.JPG"></td>
    <td>✏️ React Single Page Application that caculate class room Average </td>
   <!--    Project 2 -->
-   <td col span="3" rowspan="3"> <img src="./img/meme.PNG"></td>
+   <td col span="3" rowspan="3"> <img src="./img/meme.jpg"></td>
    <td>✏️ Meme Application that fetch images and add custom text on top of meme</td>
   </tr>
   <tr>
