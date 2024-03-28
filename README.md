@@ -50,9 +50,12 @@ Let's connect!
   <!--    Project Built With -->
   <tr>
    <!--    Project   Content-->
-   <td> <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> |
-      <a href="https://kabanapp.netlify.app/">DEMO</a></td>
-   <td> <a href="https://github.com/vinson-han/github">CODE</a> 
+   <td> 
+      <a href="https://kabanapp.netlify.app/">DEMO</a> |
+      <a href="https://github.com/vinson-han/vinson-han.github.io">CODE</a> 
+      </td>
+   <td> 
+    <a href="https://github.com/vinson-han/github">CODE</a> 
   </tr>
   <tr>
    <td colspan="8">
@@ -85,7 +88,9 @@ Let's connect!
    <td> 
       <a href="https://github.com/vinson-han/reactCalculateClassRoomAverage">Code</a></td>
    <!--    Project 2 -->
-   <td> <a href="https://github.com/vinson-han/MemeGenerator">CODE</a> </td>
+   <td>
+   <a href="https://thememegenerators.netlify.app/">DEMO </a> | 
+   <a href="https://github.com/vinson-han/MemeGenerator">CODE</a> </td>
   </tr>
   <tr>
    <td colspan="8">
@@ -93,7 +98,7 @@ Let's connect!
    </td>
   </tr>
   
-  
+
 
 </table>
 
